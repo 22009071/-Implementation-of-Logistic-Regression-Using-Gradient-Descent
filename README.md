@@ -72,7 +72,8 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](s1.png)
+![![image](https://github.com/22009071/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120206067/f8f00b72-9bd7-4e5e-8697-34d0df9cf771)
+](s1.png)
 
 
 ## Result:
